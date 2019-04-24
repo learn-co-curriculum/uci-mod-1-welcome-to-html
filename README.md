@@ -1,11 +1,9 @@
-# HTML Basics Overview
+# HTML Basics
 
-Welcome to the HTML Basics unit!
+In the next few lessons, we'll be introducing you to **HTML** (HyperText
+Markup Language).
 
 ## Preview
-
-In the next few lessons, we'll be introducing you to HTML (HyperText
-Markup Language).
 
 HTML is a _documentation-based_ technology. The word _documentation_ probably
 inspires a mental image of someone carrying heaps of papers, folders, files.
@@ -30,7 +28,7 @@ HTML documents.
 
 In the lessons ahead, many of the ideas are deliberately repeated. You might not 
 get "attributes" the first time you see them, but, after some hands-on experience,
-they'll makes sense the second time you see them.
+they'll make sense the second time you see them.
 
 ## Beyond
 
